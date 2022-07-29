@@ -23,4 +23,4 @@ Atualmente, sou estudante do curso Técnico em Informática no IFSMG, 2° Ano.<b
 No futuro, planejo ser um programador Full-Stack.<br>
 Email para contato: [lezzin.contato@gmail.com](mailto:lezzin.contato@gmail.com)
 
-"Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão 🕊️"
+<i>"Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão 🕊️"</i>
