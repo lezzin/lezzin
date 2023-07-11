@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL Logo" align="center" />
 </div><br>
 
-Atualmente, sou estudante do curso Técnico em Informática no IFSMG, 2° Ano.<br>
+Atualmente, sou estudante do curso Técnico em Informática no IFSMG, 3° Ano.<br>
 No futuro, planejo ser um programador Full-Stack.<br>
 Email para contato: [lezzin.contato@gmail.com](mailto:lezzin.contato@gmail.com)
 
