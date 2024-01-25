@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL Logo" align="center" />
 </div><br>
 
-Atualmente, sou estudante do curso Técnico em Informática no IFSMG, 3° Ano.<br>
-No futuro, planejo ser um programador Full-Stack.<br>
+Atualmente, sou formado em Técnico em Informática no IFSMG.<br>
+Tenho foco em ser programador Full-Stack.<br>
 Meu portfolio: <a href="https://lezzin.github.io/" target="_blank">acessar</a>
 
 <i>"Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão 🕊️"</i>
