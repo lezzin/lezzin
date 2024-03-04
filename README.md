@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL Logo" align="center" />
 </div><br>
 
-Atualmente, sou formado em Técnico em Informática no IFSMG.<br>
+Sou formado em Técnico em Informática no IFSMG e atualmente cursando Engenharia de Software EAD na Unicesumar.<br>
 Tenho foco em ser programador Full-Stack.<br>
 Meu portfolio: <a href="https://lezzin.github.io/" target="_blank">acessar</a>
 
