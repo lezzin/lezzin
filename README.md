@@ -16,7 +16,9 @@
 </div><br>
 
 Sou formado em Técnico em Informática no IFSMG e atualmente cursando Engenharia de Software EAD na Unicesumar.<br>
-Tenho foco em ser programador Full-Stack.<br>
-Meu portfolio: <a href="https://lezzin.github.io/" target="_blank">acessar</a>
+Tenho foco em ser programador Full-Stack.<br><br>
+
+[![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lezzin&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lezzin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <i>"Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão 🕊️"</i>
