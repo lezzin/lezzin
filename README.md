@@ -1,9 +1,8 @@
 <h1>Olá 👋, sou Leandro Adrian da Silva</h1>
-<h3>Um desenvolvedor Full Stack apaixonado em desenvolvimento de softwares</h3>
+<h3">Um desenvolvedor Full Stack apaixonado em desenvolvimento de softwares</h3>
 
-<img align="right" src="https://github.com/lezzin/lezzin/assets/103830032/e57ff913-cb6e-4a19-ac4e-f0b0dbb57161" alt="Minha logo" width="300" height="300" >
+<img align="right" src="https://github.com/lezzin/lezzin/assets/103830032/e57ff913-cb6e-4a19-ac4e-f0b0dbb57161" alt="Minha logo" width="300" height="300" />
 
-- 🧠 Estou aprendendo: **Vue.js e Firebase**
 - 👨‍💻 Meus projetos estão disponíveis em: [https://lezzin.github.io/](https://lezzin.github.io/)
 - 📫 Como entrar em contato comigo: **leandrinsilva22@gmail.com**
 - ⚡ Curiosidades: **Sou uma pessoa bastante empática, gosto de jogar futsal e vôlei**
