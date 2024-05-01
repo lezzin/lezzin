@@ -3,7 +3,6 @@
 
 - 👨‍💻 Meus projetos estão disponíveis em: **[lezzin.github.io](https://lezzin.github.io/)**
 - 📫 Como entrar em contato comigo: **leandrinsilva22@gmail.com**
-- ⚡ Curiosidades: **Gosto muito de ajudar as pessoas, possuo como hobby programar, futsal e vôlei**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
