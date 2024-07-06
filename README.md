@@ -5,8 +5,8 @@
 - 🎓 Formado em: **Técnico em Informática**
 - 📚 Estou cursando: **Bacharelado em Engenharia de Software**
 - 💼 Trabalho atualmente como: **Freelancer**
-- 👩‍💻 Meus projetos estão disponíveis em: [lezzin.github.io](https://lezzin.github.io/)
-- 📫 Como entrar em contato comigo: [leandrinsilva22@gmail.com](mailto:leandrinsilva22@gmail.com)
+- 👩‍💻 Meu portfólio: [lezzin.github.io](https://lezzin.github.io/)
+- 📫 Entre em contato comigo: [leandrinsilva22@gmail.com](mailto:leandrinsilva22@gmail.com)
 
 ## Linguagens e ferramentas
 
