@@ -1,16 +1,14 @@
 # 👋 Oi, eu sou o Leandro Adrian da Silva
 
-### Full Stack Developer que vê código como forma de expressão.  
-Entre frameworks e deadlines, eu gosto mesmo é de criar experiências que funcionam, encantam e fazem sentido.
+### Desenvolvedor Full Stack.  
 
 ---
 
 - 🎓 **Técnico em Informática** formado
 - 📚 Atualmente cursando **Engenharia de Software**
 - 💻 Atuo como **Desenvolvedor Backend (Trainee)** com foco em **PHP Laravel**
-- 🛠️ Tenho habilidades **Full Stack**, mas meu coração bate mais forte pelo backend
 - 🌐 Portfólio: [lezzin.github.io](https://lezzin.github.io/)
-- 📫 Fala comigo: [leandrinsilva22@gmail.com](mailto:leandrinsilva22@gmail.com)
+- 📫 Fale comigo: [leandrinsilva22@gmail.com](mailto:leandrinsilva22@gmail.com)
 
 ---
 
@@ -27,6 +25,7 @@ Entre frameworks e deadlines, eu gosto mesmo é de criar experiências que funci
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40"/>
@@ -56,8 +55,6 @@ Entre frameworks e deadlines, eu gosto mesmo é de criar experiências que funci
 
 > “Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão.”  
 > — Rafael Lain.
-
-Pra mim, programar é resolver, conectar, melhorar. E se puder ser bonito, leve e funcional, melhor ainda.
 
 ---
 
