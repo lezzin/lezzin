@@ -38,7 +38,7 @@
 
 ---
 
-## 🧠 Também exploro (e gosto bastante)
+## 🧠 Também exploro
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
