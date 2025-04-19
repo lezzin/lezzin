@@ -54,8 +54,6 @@ const leandro = {
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lezzin&color=blue" alt="Profile views"/>
-  <br>
-  <i>Obrigado pela visita! 😊</i>
-</div>
+<img src="https://komarev.com/ghpvc/?username=lezzin&color=blue" alt="Profile views"/>
+<br>
+<i>Obrigado pela visita! 😊</i>
