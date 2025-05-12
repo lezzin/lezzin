@@ -26,8 +26,6 @@ const leandro = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lezzin&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="170"/>
 </div>
 
-## 🛠️ Stack Tecnológico
-
 ### ⚙️ Tecnologias do Dia a Dia
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
