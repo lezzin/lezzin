@@ -15,20 +15,6 @@ volumes de dados.
 - **Bancos de Dados:** PostgreSQL e MySQL.
 - **Práticas:** SOLID e Clean Architecture.
 
----
-
-### 📊 Projetos em Destaque
-
-#### 🔹 Cronograma Automático de Cobrança
-Sistema de mensageria multicanal (Email/SMS/WhatsApp) que processa **100k+ faturas/dia** utilizando RabbitMQ para    
-garantir resiliência e escalabilidade.
-
-#### 🔹 Pipeline de Dados Financeiros
-Criação de um novo serviço do zero para processamento de relatórios pesados. Utilizei **Data Streaming** e filas para
-reduzir o tempo de geração de **40 minutos para menos de 1 minuto**.
-
----
-
 ### 📫 Como me encontrar
 
 - **Instagram:** [leandroadrian_](https://www.instagram.com/leandroadrian_)
@@ -46,7 +32,3 @@ reduzir o tempo de geração de **40 minutos para menos de 1 minuto**.
 ## 🧠 Top Languages
 
 ![Top Languages](./profile/top-langs.svg)
-
-## 📌 Featured Project
-
-![Pinned](./profile/pin.svg)
