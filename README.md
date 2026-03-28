@@ -38,3 +38,15 @@ reduzir o tempo de geração de **40 minutos para menos de 1 minuto**.
 ---
 
 *"Transformando desafios complexos de negócio em código eficiente, escalável e bem documentado."*
+
+## 📊 GitHub Stats
+
+![Stats](./profile/stats.svg)
+
+## 🧠 Top Languages
+
+![Top Languages](./profile/top-langs.svg)
+
+## 📌 Featured Project
+
+![Pinned](./profile/pin.svg)
