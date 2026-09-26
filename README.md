@@ -24,19 +24,3 @@ I'm a developer focused on building robust, scalable, and high-performance syste
 ---
 
 *"Turning complex business challenges into efficient, scalable, and well-documented code."*
-
-## 📊 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile/stats-light.svg">
-  <img src="profile/stats-light.svg" />
-</picture>
-
-## 🧠 Top Languages
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile/top-langs-light.svg">
-  <img src="profile/top-langs-light.svg" />
-</picture>
